@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/profhacks-website/static/css/main.45e25a5c.css",
-    "main.js": "/profhacks-website/static/js/main.2ac24a09.js",
-    "static/media/pexels-pixabay-221471.jpg": "/profhacks-website/static/media/pexels-pixabay-221471.9124028827115803755c.jpg",
-    "static/media/profhacks-logo (1).png": "/profhacks-website/static/media/profhacks-logo (1).134d2856286a3493e568.png",
-    "static/media/Rowan-IEEE-Banner-Logo.png": "/profhacks-website/static/media/Rowan-IEEE-Banner-Logo.2c5287f87d9d6a8e40f6.png",
-    "index.html": "/profhacks-website/index.html",
-    "main.45e25a5c.css.map": "/profhacks-website/static/css/main.45e25a5c.css.map",
-    "main.2ac24a09.js.map": "/profhacks-website/static/js/main.2ac24a09.js.map"
+    "main.css": "/static/css/main.702fffca.css",
+    "main.js": "/static/js/main.bed18d38.js",
+    "static/media/pexels-pixabay-221471.jpg": "/static/media/pexels-pixabay-221471.9124028827115803755c.jpg",
+    "static/media/profhacks-logo (1).png": "/static/media/profhacks-logo (1).134d2856286a3493e568.png",
+    "static/media/Rowan-IEEE-Banner-Logo.png": "/static/media/Rowan-IEEE-Banner-Logo.2c5287f87d9d6a8e40f6.png",
+    "index.html": "/index.html",
+    "main.702fffca.css.map": "/static/css/main.702fffca.css.map",
+    "main.bed18d38.js.map": "/static/js/main.bed18d38.js.map"
   },
   "entrypoints": [
-    "static/css/main.45e25a5c.css",
-    "static/js/main.2ac24a09.js"
+    "static/css/main.702fffca.css",
+    "static/js/main.bed18d38.js"
   ]
 }
